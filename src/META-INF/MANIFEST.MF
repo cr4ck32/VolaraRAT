@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . lib/wcj-core.jar lib/wcj-api.jar lib/wcj-part.jar lib/vosi.jar lib/vosi-tbp.jar lib/jna.jar lib/jna-core.jar lib/jsh.jar
+Main-Class: com.Volara.Main
+
